@@ -27,12 +27,12 @@ Retrieve a list of all users/students available in the database.
       {
         "id": 1,
         "name": "MaryJane Okafor",
-        "hobbies": ['running','dancing', 'swimming', 'basketball'] 
+        "hobbies": [] 
     },
     {
         "id": 2,
         "name": "Collins Smith",
-        "hobbies": ['running','dancing', 'swimming', 'basketball'],
+        "hobbies": [],
       },
       
     ]
@@ -51,7 +51,7 @@ Retrieve detailed information about a specific user based on its unique identifi
     {
       "id": 1,
       "name": "Ella Onukwube",
-      "hobbies": ['running','dancing', 'swimming', 'basketball']
+      "hobbies": []
     }
 ## Retrieve User by Username
 Retrieve detailed information about a specific user based on its unique identifier.
@@ -69,7 +69,7 @@ Retrieve detailed information about a specific user based on its unique identifi
       "id": 1,
       "Username": "ICE",
       "name": "Kizito Okolo",
-      "hobbies":  ['running','dancing', 'swimming', 'basketball']
+      "hobbies":  []
     }
 ## Update User by Id/Username
 Update information about a specific user based on its unique identifier.
@@ -88,7 +88,7 @@ Update information about a specific user based on its unique identifier.
       "id": 1,
       "Username": "Kelly",
       "name": "Ugwu Kelechi.",
-      "Hobbies": ['running','dancing', 'swimming', 'basketball']
+      "Hobbies": []
     }
 ## Delete User by Username/ID
 Update information about a specific user based on its unique identifier.
@@ -108,7 +108,7 @@ Update information about a specific user based on its unique identifier.
       "id": 1,
       "Username": "Kelly",
       "name": "Ugwu Kelechi.",
-      "Hobbies": ['running','dancing', 'swimming', 'basketball']
+      "Hobbies": []
     }
    ]
 # Usage
