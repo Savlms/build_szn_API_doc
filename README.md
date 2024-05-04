@@ -67,7 +67,7 @@ Retrieve detailed information about a specific user based on its unique identifi
     ````json
     {
       "id": 1,
-      "Username": "ICE",
+      "username": "ICE",
       "name": "Kizito Okolo",
       "hobbies":  []
     }
@@ -86,9 +86,9 @@ Update information about a specific user based on its unique identifier.
     ````json
     {
       "id": 1,
-      "Username": "Kelly",
+      "username": "Kelly",
       "name": "Ugwu Kelechi.",
-      "Hobbies": []
+      "hobbies": []
     }
 ## Delete User by Username/ID
 Update information about a specific user based on its unique identifier.
@@ -106,9 +106,9 @@ Update information about a specific user based on its unique identifier.
    [
      {
       "id": 1,
-      "Username": "Kelly",
+      "username": "Kelly",
       "name": "Ugwu Kelechi.",
-      "Hobbies": []
+      "hobbies": []
     }
    ]
 # Usage
